@@ -1,10 +1,11 @@
-@font-face: {
-  font-family: "Source Code Pro";
-  src: url(../assets/fonts/SourceCodePro);
-}
+/* @font-face: { */
+  
+/*   src: url(../assets/fonts/SourceCodePro); */
+/* } */
 
 
 body {
+  font-family: "Source Code Pro";
   background-color: #242236;
 }
 h1 {
