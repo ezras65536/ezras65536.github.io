@@ -1,3 +1,9 @@
+@font-face: {
+  font-family: "Source Code Pro";
+  src: url(../assets/fonts/);
+}
+
+
 body {
   background-color: #242236;
 }
