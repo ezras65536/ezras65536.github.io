@@ -1,3 +1,4 @@
+
 /* @font-face: { */
   
 /*   src: url(../assets/fonts/SourceCodePro); */
@@ -7,12 +8,16 @@
 body {
   background-color: #242236;
 }
-.name {
-  font-family: "Source Code Pro";
-}
 h1 {
   color: white;
 }
 p {
   color: #ccccff;
+}
+
+.name {
+  font-family: "Source Code Pro";
+}
+.char1 {
+  animation: appear 1s forwards;
 }
