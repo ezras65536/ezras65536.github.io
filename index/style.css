@@ -5,8 +5,10 @@
 
 
 body {
-  font-family: "Source Code Pro";
   background-color: #242236;
+}
+.name {
+  font-family: "Source Code Pro";
 }
 h1 {
   color: white;
