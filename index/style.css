@@ -21,3 +21,9 @@ p {
 .char1 {
   animation: appear 1s forwards;
 }
+
+@keyframes appear {
+  to {
+    transform: translateY(-6.5vw);
+  }
+}
